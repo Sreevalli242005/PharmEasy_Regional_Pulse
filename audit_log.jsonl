@@ -1,0 +1,3 @@
+{"timestamp": "2026-09-29T06:28:40.541749+00:00", "run_id": "3ecb43a7-a583-435c-8339-f31c56b848f9", "region": "Guntur", "decision": "approve", "reviewer_note": "Numbers verified against Part 2 SQL output."}
+{"timestamp": "2026-09-29T06:28:40.548240+00:00", "run_id": "477261f2-6f9f-437d-bfb0-7234f333770e", "region": "Hyderabad", "decision": "edit", "reviewer_note": "Tighten the implication wording before sending."}
+{"timestamp": "2026-09-29T06:28:40.554499+00:00", "run_id": "e0e17168-00d4-4d46-95d7-57a1bbf7e193", "region": "Visakhapatnam", "decision": "reject", "reviewer_note": "Needs a second SQL pass before this goes anywhere."}
