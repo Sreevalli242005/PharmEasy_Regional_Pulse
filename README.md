@@ -194,7 +194,7 @@ Here are the four things to look at, and the order I'd suggest:
 3. "One-page memo" ('memo.md' — the recommendation).
  The actual advice: don't change anything about Guntur based on May alone, hold steady, and check again once July's numbers come in.
 
-4. "Presentation storyline" (`presentation_storyline.md` — how you'ddefend it live).
+4. "Presentation storyline" (`presentation_storyline.md` ).
  The same finding explained two different ways, plus the questions I'd expect someone to push back with.
 
 The one assumption I'd flag upfront: the reason for Guntur's May increase is unknown from this dataset. The available data can show the movement, but it cannot establish what caused it.
