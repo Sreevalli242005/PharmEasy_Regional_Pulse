@@ -155,10 +155,10 @@ python metrics_engine.py
 8. Generate the CII report:
 python draft_report.py
 
-9. Run the review-gate test harness (writes audit_log.jsonl)
+9. Run the review-gate test harness (writes audit_log.jsonl):
 python review_gate.py
 
-10. Launch the dashboard
+10. Launch the dashboard:
 streamlit run app.py
 
 
