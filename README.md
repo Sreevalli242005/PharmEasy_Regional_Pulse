@@ -132,7 +132,7 @@ This is the exact order I ran everything in, from a clean folder, to make sure i
 
 1. Create and activate a virtual environment:
 python -m venv .venv
-.venv\Scripts\activate        # Windows
+.venv\Scripts\activate        
 
 2. Install dependencies:
 pip install -r Requirements.txt
@@ -155,7 +155,7 @@ python metrics_engine.py
 8. Generate the CII report:
 python draft_report.py
 
-9. Run the review-gate test harness (writes audit_log.jsonl):
+9. Run the review-gate test (writes audit_log.jsonl):
 python review_gate.py
 
 10. Launch the dashboard:
